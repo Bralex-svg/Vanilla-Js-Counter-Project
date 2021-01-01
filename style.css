@@ -1,0 +1,164 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.buttons{
+    transform: translateY(150%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+
+#redBtn{
+    margin: 0 50px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+#blueBtn{
+    margin: 0 50px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+#greenBtn{
+    margin: 0 50px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.counters{
+    transform: translateY(170%);
+    position: absolute;
+    top: 30%;
+    margin-left: 46%;
+}
+
+#add{
+    padding: 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    width: 200px;
+}
+
+#subtract{
+    padding: 20px;
+    margin: 0 70px;
+    cursor: pointer;
+    width: 200px;
+}
+
+
+p{
+    font-size: 30px;
+    text-align: center;
+    transform: translateY(-60px);
+    margin-left: -80%;
+
+}
+
+
+.btn{
+ transform: translateX(-200px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.color-container {
+    display: flex;
+    justify-content: space-around
+}
+
+.color-container > div {
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+}
+
+
+
+
+div#purple {
+    background-color: rebeccapurple;
+    width: 50px;
+    height: 50px;
+}
+
+div#green {
+    background-color: forestgreen;
+    width: 50px;
+    height: 50px;
+}
+
+div#blue {
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+}
+
+div#red {
+    background-color: firebrick;
+    width: 50px;
+    height: 50px;
+}
+
+div#white {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+}
+
+.count-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.count-container > p {
+    margin: auto 20px;
+    font-size: 30px;
+}  */
